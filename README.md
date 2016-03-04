@@ -1,2 +1,2 @@
-# ASP_NET_MVC_REST
+# Asp.Net MVC REST
 ASP.NET implementing REST API service using Entity Framework
